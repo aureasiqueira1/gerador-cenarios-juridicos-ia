@@ -2,6 +2,8 @@
 
 Uma aplicação completa para gerar cenários jurídicos realistas usando Inteligência Artificial, desenvolvida para treinamento e aperfeiçoamento de equipes jurídicas.
 
+<img width="1220" height="883" alt="image" src="https://github.com/user-attachments/assets/d44f194a-c336-4992-98e5-b30f05839df0" />
+
 ## 🚀 Funcionalidades
 
 - ✨ **Geração Inteligente**: Cenários jurídicos realistas usando GPT-4
